@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+}
+body{
+    padding: 20px;
+}
+
+th,td{
+    width: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
